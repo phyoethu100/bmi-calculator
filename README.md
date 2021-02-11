@@ -1,2 +1,2 @@
-# bmi-calculator
-BMI calculator ios application
+# BMI Calculator
+iOS application
